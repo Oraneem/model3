@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: poppins, sans-serif;
+}
+.navbar{
+
+border: none;
+background-color: grey;
+
+}
+body{
+	background-color: #ffff;
+	color: black;
+	font-size: medium;
+}
+a.navbar-brand{
+	color:black;
+	background-color: grey;
+	font-weight: bold;
+}
+
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+    font-size: 35px;
+    color: #000;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #000;
+	text-align: center;
+}
+#myNavbar ul li a:hover {
+	color: #fff;
+	text-align: center;
+}
+.navbar-brand{
+font-size: 30px;
+color: black;
+
+}
